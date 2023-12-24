@@ -1,4 +1,4 @@
-<div align="center">
+
   
 
 <h1 align="center> Hola, soy ~~Henry~~ 👋 </h1>
@@ -11,5 +11,3 @@
 * Autodidacta :page_with_curl:
 
 
-
-</div>
