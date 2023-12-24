@@ -1,19 +1,21 @@
-### Hi there 👋
+<div align="center">
+  
 
-<!--
-**hhenry14/hhenry14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center> Hola, soy ~~Henry~~ 👋 </h1>
 
-Here are some ideas to get you started:
+## Sobre mi
+---
+* Desarrollo Web :blush:
+* Fuerte en habilidades blandas :ok_hand:
+* Trabajo en equipo :wave:
+* Autodidacta :page_with_curl:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Proyectos 
+<table>
+<tr>
+  
+</tr>
+  
+</table>
 
-* [x] tash 1
-* [x] tash 2 
+</div>
