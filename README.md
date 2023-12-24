@@ -10,12 +10,6 @@
 * Trabajo en equipo :wave:
 * Autodidacta :page_with_curl:
 
-##Proyectos 
-<table>
-<tr>
-  
-</tr>
-  
-</table>
+
 
 </div>
