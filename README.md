@@ -1,6 +1,3 @@
-
-  
-
 <h1 align="center> Hola, soy ~~Henry~~ 👋 </h1>
 
 ## Sobre mi
@@ -9,5 +6,3 @@
 * Fuerte en habilidades blandas :ok_hand:
 * Trabajo en equipo :wave:
 * Autodidacta :page_with_curl:
-
-
