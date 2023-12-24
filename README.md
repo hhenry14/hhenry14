@@ -1,4 +1,4 @@
-<h1 align="center> Hola, soy ~~Henry~~ 👋 </h1>
+# Hola, soy ~~Henry~~ 👋 
 
 ## Sobre mi
 ---
